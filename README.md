@@ -1,1 +1,16 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
+
+COMPANY: Codtech IT Solutions
+
+NAME: Bhavitha G
+
+INTERN ID: CT04DG2920
+
+DOMAIN: Python Programming
+
+DURATION: 4 Weeks
+
+MENTOR: Neela Santosh
+
+DESCRIPTION:
+
