@@ -18,3 +18,4 @@ Task 4 focuses on implementing a machine learning model using Scikit-learn to cl
 
 OUTPUT:
 
+<img width="1734" height="716" alt="Image" src="https://github.com/user-attachments/assets/14dd0fb1-75bc-4d10-8b05-6fff37832b6b" />
